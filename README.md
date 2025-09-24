@@ -60,7 +60,7 @@ print(answer.content)
 
 ## File Structure
 
-- [`11_RAG/1.ipynb`](11_RAG/1.ipynb): Main notebook implementing the pipeline.
+- [`1.ipynb`](1.ipynb): Main notebook implementing the pipeline.
 
 ## Notes
 
